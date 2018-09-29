@@ -12,3 +12,4 @@ mnist_train.py
 使用python/python3 mnist_train.py,生成并保存训练模型.
 # 4 验证测试模型
 mnist_eval.py
+使用python/python3 mnist_eval.py
