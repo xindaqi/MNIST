@@ -24,6 +24,11 @@ mnistcnn_inference.py
 mnistcnn_train.py
 卷积神经网络的输入层是三维矩阵，输入调整为batch、image_size、image_size和num_channels(图像深度)。
 python3 mnistcnn_train.py
+## 4 AlexNet神经网络
+AlexNetModel.py
+加载数据，构建神经网络模型，训练、验证和保存模型。
+python3 AlexNetModel.py
+
 
 
 
